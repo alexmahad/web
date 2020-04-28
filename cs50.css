@@ -1,0 +1,34 @@
+p {
+	color: pink;
+	text-align: center;
+	font-family: 
+}
+
+div{
+	background-color: blue;
+	width: 500px;
+	height: 400px;
+}
+
+.de {
+	color:green;
+}
+
+.table{
+	border:2px solid black;
+	border-collapse: collapse;
+	width: 50%;
+
+} 
+
+th,td {
+		border:2px solid black;
+			padding: 5px;
+			text-align: center;
+
+
+}
+
+th{
+	background: lightgrey;
+}
